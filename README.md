@@ -1,4 +1,4 @@
 # Repositodio ing soft 3
 
-## trabajo-practico-01
-Aprendiendo __Git__
+## Trabajo Práctico 01
+[__Git__](./trabajo-practico-01/trabajo.md)

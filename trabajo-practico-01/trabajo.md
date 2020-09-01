@@ -50,5 +50,9 @@ Un pull request es una petición que el propietario de un fork de un repositorio
 ## LOCAL BASE REMOTE
 
 * Local: El archivo en la rama donde se está fusionando. 
-* Remote: El archivo en la rama desde donde se está fusionando
+* Remote: El archivo en la rama desde donde se está fusionando.
 * Base: El ancestro común de LOCAL y REMOTE, es decir, el punto donde las dos ramas comenzaron a desviarse del archivo considerado.  
+
+## Git exercises
+
+![Image 16](./images/image_16.png)
