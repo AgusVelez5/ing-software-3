@@ -56,3 +56,4 @@ Un pull request es una petición que el propietario de un fork de un repositorio
 ## Git exercises
 
 ![Image 16](./images/image_16.png)
+![Image 17](./images/image_17.png)
