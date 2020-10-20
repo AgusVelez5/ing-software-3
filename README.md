@@ -14,3 +14,6 @@
 
 ## Trabajo Práctico 05
 [__Herramientas de construcción de software__](./trabajo-practico-05/README.md)
+
+## Trabajo Práctico 06
+[__Construcción de Imágenes de Docker__](./trabajo-practico-06/README.md)
