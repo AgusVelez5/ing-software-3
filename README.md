@@ -17,3 +17,6 @@
 
 ## Trabajo Práctico 06
 [__Construcción de Imágenes de Docker__](./trabajo-practico-06/README.md)
+
+## Trabajo Práctico 07
+[__Servidor de Build__](./trabajo-practico-07/README.md)
