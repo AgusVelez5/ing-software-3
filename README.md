@@ -20,3 +20,6 @@
 
 ## Trabajo Práctico 07
 [__Servidor de Build__](./trabajo-practico-07/README.md)
+
+## Trabajo Práctico 08
+[__Herramientas de construcción de software en la nube__](./trabajo-practico-08/README.md)
