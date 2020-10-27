@@ -17,7 +17,7 @@ En esta aplicación se utiliza [Sinon JS](https://sinonjs.org/) la cual es una b
 
 ![nmh](./images/nmh.png)
 
-Tambien utilizamos la libreria [node-mocks-http](https://www.npmjs.com/package/node-mocks-http) que nos permite crear mocks de request http o responses. Por ejemplo para probar diferentes rutas de [express]https://expressjs.com/()
+Tambien utilizamos la libreria [node-mocks-http](https://www.npmjs.com/package/node-mocks-http) que nos permite crear mocks de request http o responses. Por ejemplo para probar diferentes rutas de [express](https://expressjs.com/)
 
 - - -
 
