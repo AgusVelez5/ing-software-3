@@ -32,10 +32,14 @@ __Contras__:
 
 ![Gitlab](./images/gitlab.png)
 
+### Github Actions
+
+![Github Actions](./images/github.png)
+
 - - -
 
 __Conclusion__:
 
-A pesar que construi pipelines extremadamente sencillos pude entender el formato y como funcionan. Travis, Codefresh y Gitlab me resulto muy sencillo tanto la aplicación como la sintaxis utilizada. CircleCI no lo pude hacer andar de manera rapida asi que esto refleja un contraste con las otras tecnologías.
+A pesar que construi pipelines extremadamente sencillos pude entender el formato y como funcionan. Travis, Codefresh y Gitlab me resulto muy sencillo tanto la aplicación como la sintaxis utilizada. CircleCI no lo pude hacer andar de manera rapida asi que esto refleja un contraste con las otras tecnologías. Finalmente probe github actions y me resulto muy intuitivo y bastante bien documentado.
 
-![Readme](./images/readme.png)
+![Repo](./images/repo.png)
