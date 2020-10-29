@@ -28,3 +28,6 @@
 
 ## Trabajo Práctico 09
 [__Pruebas de unidad__](./trabajo-practico-09/README.md)
+
+## Trabajo Práctico 10
+[__Pruebas de Integración__](./trabajo-practico-10/README.md)
