@@ -31,3 +31,6 @@
 
 ## Trabajo Práctico 10
 [__Pruebas de Integración__](./trabajo-practico-10/README.md)
+
+## Trabajo Práctico 11
+[__Métricas de código__](./trabajo-practico-11/README.md)
